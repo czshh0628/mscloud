@@ -13,6 +13,7 @@
         <module>api-common</module>
         <module>seata-storage-service</module>
         <module>seata-order-service</module>
+        <module>nacos-provider-service</module>
     </modules>
 
     <properties>
