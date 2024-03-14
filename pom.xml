@@ -16,6 +16,7 @@
         <module>nacos-provider-service</module>
         <module>nacos-consumer-service</module>
         <module>nacos-config-service</module>
+        <module>sentinel-micro-service</module>
     </modules>
 
     <properties>
