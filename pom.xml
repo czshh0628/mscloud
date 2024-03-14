@@ -15,6 +15,7 @@
         <module>seata-order-service</module>
         <module>nacos-provider-service</module>
         <module>nacos-consumer-service</module>
+        <module>nacos-config-service</module>
     </modules>
 
     <properties>
