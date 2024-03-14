@@ -12,6 +12,7 @@
         <module>seata-account-service</module>
         <module>api-common</module>
         <module>seata-storage-service</module>
+        <module>seata-order-service</module>
     </modules>
 
     <properties>
