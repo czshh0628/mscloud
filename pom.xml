@@ -18,6 +18,7 @@
         <module>nacos-config-service</module>
         <module>sentinel-micro-service</module>
         <module>sentinel-gateway-service</module>
+        <module>cloud-gateway-service</module>
     </modules>
 
     <properties>
