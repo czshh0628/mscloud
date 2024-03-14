@@ -11,6 +11,7 @@
     <modules>
         <module>seata-account-service</module>
         <module>api-common</module>
+        <module>seata-storage-service</module>
     </modules>
 
     <properties>
