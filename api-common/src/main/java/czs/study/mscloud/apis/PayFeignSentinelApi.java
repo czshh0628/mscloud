@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.PathVariable;
 /**
  * @author czs
  */
-@FeignClient(value = "nacos-payment-provider", fallback = PayFeignSentinelApiFallBack.class)
+@FeignClient(value = "nacos-provider-service", fallback = PayFeignSentinelApiFallBack.class)
 public interface PayFeignSentinelApi {
     @GetMapping(value = "/pay/nacos/get/{orderNo}")
     public ResultData getPayByOrderNo(@PathVariable("orderNo") String orderNo);
